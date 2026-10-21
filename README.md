@@ -2,7 +2,7 @@
 
 I build machine learning models **and the systems that serve them**: LLM inference services, real-time voice agents, end-to-end ML pipelines and full-stack web apps.
 
-🌐 **Portfolio:** [jedhubert.github.io](https://jedhubert.github.io)
+🌐 **Portfolio:** [jedhubert.github.io](https://jedhubert.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/jed-hubert-c/) · ✉️ [je11hubert@gmail.com](mailto:je11hubert@gmail.com)
 
 ### Tech stack
 
